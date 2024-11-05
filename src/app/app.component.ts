@@ -9,7 +9,7 @@ import { CommonModule } from '@angular/common';
   standalone: true
 })
 export class UserComponent {
-  username = 'oPA LELELE';;
+  username = 'Composição de componentes';;
 }
 
 @Component({
