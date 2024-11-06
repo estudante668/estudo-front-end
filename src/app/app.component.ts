@@ -10,5 +10,6 @@ import { RouterOutlet } from '@angular/router';
   imports: [RouterOutlet],
 })
 export class AppComponent {
-  isLoggin = true;
+  
+  listaUsuarios =[{id: 1, nome:'Jose'},{id: 2, nome:'Maria'},{id: 3, nome:'Euniza'},]
 }
